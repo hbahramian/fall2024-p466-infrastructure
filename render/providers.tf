@@ -9,5 +9,4 @@ terraform {
 
 provider "render" {
   # Configuration options
-
 }
