@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "p466" {
-  name     = "p466-practicums"
+  name     = var.app_name
   location = var.location
 }
